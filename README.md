@@ -5,7 +5,7 @@
 
 ### 🌿 Actualmente  
 - Estudiando desarrollo Full Stack en **4Geeks Academy** 📚  
-- Actualmente trabajando en: **Trabajo**
+- Actualmente trabajando en: **Payflow**
 
 <h3 align="left">📱 Conéctate conmigo:</h3>
 <p align="left">
