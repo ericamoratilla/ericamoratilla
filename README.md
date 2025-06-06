@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/ericamoratilla/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/ercmrtll/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/>
-  </a>
 </p>
 
 <h3 align="left">💻 Tecnologías que estoy aprendiendo:</h3>
