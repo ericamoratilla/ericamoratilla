@@ -49,6 +49,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   </a>
 </p>
+
 ---
 
 <h3 align="left">🌟 Sobre mí</h3>
@@ -58,7 +59,8 @@
   <li>Me encanta aprender y aplicar nuevas tecnologías en proyectos reales 🚀</li>
 </ul>
 
-<p align="center">
 ---
+
+<p align="center">
 💫 Mis proyectos están en mi GitHub, principalmente realizados durante el bootcamp de 4Geeks.
 </p>
