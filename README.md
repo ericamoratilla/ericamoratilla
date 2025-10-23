@@ -52,22 +52,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   </a>
 </p>
-
----
-
-<h3 align="left">💼 Experiencia Destacada</h3>
-- **BDEO | Technical Support Intern (Ago 2025 - Actualidad)**  
-  Soporte técnico, implantaciones y resolución de incidencias complejas con SQL, AWS y Metabase.  
-
-- **Payflow (2022 - 2025)**  
-  Soporte técnico nivel 2/3, resolución de incidencias de integraciones API/SFTP y coordinación con equipos de desarrollo y negocio.  
-
 ---
 
 <h3 align="left">🌟 Sobre mí</h3>
-- Combino soporte técnico y desarrollo Full Stack para resolver problemas complejos  
-- Documentación clara y coordinación efectiva con equipos  
-- Me encanta aprender y aplicar nuevas tecnologías en proyectos reales 🚀  
+<ul>
+  <li>Combino soporte técnico y desarrollo Full Stack para resolver problemas complejos</li>
+  <li>Documentación clara y coordinación efectiva con equipos</li>
+  <li>Me encanta aprender y aplicar nuevas tecnologías en proyectos reales 🚀</li>
+</ul>
 
 ---
 
